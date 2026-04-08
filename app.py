@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/github/niit-ibm/lp1-cgo-lab1/blob/main/sd_learn_cgo_lab1.ipynb
 """
 
-!pip install git+https://github.com/ibm-granite-community/utils \
+\
     "langchain_community<0.3.0" \
     replicate
 
